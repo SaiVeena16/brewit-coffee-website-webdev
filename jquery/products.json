@@ -1,0 +1,141 @@
+[
+    {
+        "id":1,
+        "name":"Cappuccino",
+        "price" : "200",
+        "image" : "./images/coffee/capaccino.jpg"
+    },
+    {
+        "id":2,
+        "name":"Espresso",
+        "price" : "180",
+        "image" : "./images/coffee/espresso.jpg"
+    },
+    {
+        "id":3,
+        "name":"Caramel Macchiato",
+        "price" : "300",
+        "image" : "./images/coffee/caramel macchiato.jpg"
+    },
+    {
+        "id":4,
+        "name":"Iced Americano",
+        "price" : "250",
+        "image" : "./images/coffee/iced americano.jpg"
+    },
+    {
+        "id":5,
+        "name":"Cold Brew",
+        "price" : "400",
+        "image" : "./images/coffee/cold brew.jpg"
+    },
+    {
+        "id":6,
+        "name":"Flat white",
+        "price" : "500",
+        "image" :"./images/coffee/flat white.jpg"
+    },
+    {
+        "id":7,
+        "name":"Cherry Milkshake",
+        "price" : "300",
+        "image" :"./images/coffee/cherry milkshake.jpg"
+    },
+    {
+        "id":8,
+        "name":"Strawberry Milkshake",
+        "price" : "200",
+        "image" :"./images/coffee/strawberrymilkshake.jpg"
+    },
+    {
+        "id":9,
+        "name":"Chocolate Milkshake",
+        "price" : "200",
+        "image" :"./images/coffee/chocolate.jpg"
+    },
+    {
+        "id":10,
+        "name":"Blue Berry Milkshake",
+        "price" : "350",
+        "image" :"./images/coffee/blue berry.jpg"
+    },
+    {
+        "id":11,
+        "name":"Mint choco chip Milkshake",
+        "price" : "500",
+        "image" :"./images/coffee/mint choco.jpg"
+    },
+    {
+        "id":12,
+        "name":"Blue Heaven",
+        "price" : "500",
+        "image" :"./images/coffee/blue heaven.jpg"
+    },
+    {
+        "id":13,
+        "name":"Orange",
+        "price" : "200",
+        "image" :"./images/coffee/orange.jpg"
+    },
+    {
+        "id":14,
+        "name":"Mango",
+        "price" : "230",
+        "image" :"./images/coffee/mango .jpg"
+    },
+    {
+        "id":15,
+        "name":"Berry Delight",
+        "price" : "500",
+        "image" :"./images/coffee/berry smootiee.jpg"
+    },
+    {
+        "id":16,
+        "name":"Sugar-cane Juice",
+        "price" : "500",
+        "image" :"./images/coffee/sugar cane.jpg"
+    },
+    {
+        "id":17,
+        "name":"Grape juice",
+        "price" : "300",
+        "image" :"./images/coffee/grape .jpg"
+    },
+    {
+        "id":18,
+        "name":"Vanilla Delight",
+        "price" : "500",
+        "image" :"./images/coffee/vanilla.jpg"
+    },
+    {
+        "id":19,
+        "name":"Croissant",
+        "price" : "200",
+        "image" :"./images/coffee/crosont.jpg"
+    },
+    {
+        "id":20,
+        "name":"Caramel Pudding",
+        "price" : "480",
+        "image" :"./images/coffee/pudding.jpg"
+    },
+    {
+        "id":21,
+        "name":"Frosty Fudge Brownie",
+        "price" : "500",
+        "image" :"./images/coffee/crosont.jpg"
+    },
+    {
+        "id":22,
+        "name":"Biscuits",
+        "price" : "200",
+        "image" :"./images/coffee/buscuits.jpg"
+    },
+    {
+        "id":23,
+        "name":"Triffle",
+        "price" : "800",
+        "image" :"./images/coffee/trifle.jpg"
+    }
+
+]
