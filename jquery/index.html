@@ -25,13 +25,35 @@
         <div class="icons">
             <div class="fas fa-bars" id="menu-bars"></div>
             <div class="fas fa-search" id="search-btn"></div>
-            <div class="fas fa-shopping-cart" id="cart-btn"></div>
+            <div class="fas fa-shopping-cart" id="cart-btn"><span> 0 </span></div>
             <div class="fas fa-user" id="login-btn"></div>
         </div>
         <form action="" class="search-form">
             <input type="search" id="search-box" placeholder="search here...">
             <label for="search-box" class="fas fa-search"></label>
         </form>
+        <div class="shopping-cart">
+            <h1>Shopping Cart</h1>
+            <div class="listcart">
+                <div class="item">
+                    <div class="image">
+                        <img src="./images/coffee/capaccino.jpg"  alt="cappuccino">
+                    </div>
+                    <div class="name">Cappuccino</div>
+                    <div class="total-price">Rs 200</div>
+                    <div class="quantity">
+                        <span class="minus">-</span>
+                        <span>1</span>
+                        <span class="add">+</span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="btn">
+                <button class="close">CLOSE</button>
+                <button class="checkout">CHECKOUT</button>
+            </div>
+        </div>
         <form action="" class="login-form">
             <input type="email" id="email-box" placeholder="enter Email">
             <input type="password" id="password-box" placeholder="enter password">
@@ -48,6 +70,37 @@
         </div>
         
     </section>
+    <!--About section-->
+    <section id="aboutus">
+        <img src="./images/coffee man.png" alt="a man brewing coffee">
+        <h3>“Brewing Passion: Discover Our Coffee Journey”</h3>
+        <p>Our coffee journey takes us across continents. From the robust Ethiopian Yirgacheffe to the velvety Colombian Supremo, each bean has a story to tell. Explore our menu, and you’ll find single-origin delights, signature blends, and seasonal surprises.Coffee isn’t a transaction; it’s a ritual. Come, sit by our cozy fireplace, inhale the intoxicating aroma, and let time slow down. Whether you’re a digital nomad seeking refuge or a student cramming for exams, our café welcomes you with open arms.</p>
+
+    </section>
+    <!--Menu section-->
+    <section id="menu">
+        <h3>“Sips & Delights: Our Flavorful Journey”</h3>
+        <nav class="menunav">
+            <a href="#coffee">Bean Harmony</a>
+            <a href="#milkshakes">Milkshakes</a>
+            <a href="#iceddelights">Iced Delights</a>
+            <a href="#pastries">Pastry Paradise</a>
+        </nav>
+        <div class="listproducts">
+            <div class="container" id="coffee">
+              
+            </div>
+            <div class="container" id="milkshakes">
+            
+            </div>
+            <div class="container" id="iceddelights">
+            
+            </div>
+            <div class="container" id="pastries">
+           
+            </div>
+        </div>
+    </section>
     <!--footer section-->
     <footer class="footer">
         <hr/>
@@ -60,12 +113,9 @@
         <div id="contact">
             <a href="#">Contact us</a>
             <p>tel no:+913456676756  <br>Email:bewit@gmail.com <br>Adress:brewit complex,Assam,India  </p> 
-        </div>
-            
-        
-        
+        </div> 
         <form action="" class="newspaper-form">
-            <label>For Our NewsPaper</label>
+            <label>Join Our Newsletter</label>
             <input text="Email" placeholder="Enter your email">
             <button>Subscribe Now</button>
         </form>
